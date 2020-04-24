@@ -5,7 +5,7 @@
 
 ## Description
 
-_This application..._
+_This application is a storefront for earth day merchandise, built using React._
 
 ## Component Tree
 ![component tree](merch-site-diagram.jpg)
