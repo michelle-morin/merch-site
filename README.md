@@ -7,6 +7,8 @@
 
 _This application is a storefront for earth day merchandise, built using React._
 
+Deployed on [GitHub pages](https://michelle-morin.github.io/merch-site/)
+
 ## Component Tree
 ![component tree](merch-site-diagram.jpg)
 
