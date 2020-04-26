@@ -18,6 +18,11 @@ body {
   align-items: center;
   height: 80%;
   font-size: 1.25rem;
+  padding: 1%;
+}
+
+.mission-statement {
+  padding: 1%;
 }
 
 .brand-section h1 {

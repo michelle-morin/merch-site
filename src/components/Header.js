@@ -24,9 +24,8 @@ function Header(){
         <div className="brand-section">
           <h1>Earth<span className="merch">Merch</span></h1>
           <div className="mission-statement">
-            <p>Our mission? To build the world’s largest environmental movement to drive transformative change for people and planet.</p>
-            <p>We take time and care to consider where and how things are made, who makes them and what they are made out of.</p>
-            <p>We support local designers, women, minority and family owned businesses and small makers and manufacturers.</p>
+            <p>We drive transformative change for people and planet.</p>
+            <p>We support local artists and small makers who use natural, high-quality materials.</p>
           </div>
         </div>
       </div>
