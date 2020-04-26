@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d38a64e9554b07e362bff07da0003c8",
+    "revision": "4819e3a12b84cfc72880961d2a0bd585",
     "url": "/merch-site/index.html"
   },
   {
-    "revision": "7c3ca40b42d07bd5f1a3",
-    "url": "/merch-site/static/css/main.955562a4.chunk.css"
+    "revision": "3b492ba69b9beb5a5761",
+    "url": "/merch-site/static/css/main.91a2cca5.chunk.css"
   },
   {
     "revision": "90631e0b5b4ab80e838d",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/merch-site/static/js/2.950cf9f8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7c3ca40b42d07bd5f1a3",
-    "url": "/merch-site/static/js/main.e15f8929.chunk.js"
+    "revision": "3b492ba69b9beb5a5761",
+    "url": "/merch-site/static/js/main.0c516537.chunk.js"
   },
   {
     "revision": "086b0a2972bc407ea033",

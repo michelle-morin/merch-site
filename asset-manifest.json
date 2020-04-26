@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/merch-site/static/css/main.955562a4.chunk.css",
-    "main.js": "/merch-site/static/js/main.e15f8929.chunk.js",
-    "main.js.map": "/merch-site/static/js/main.e15f8929.chunk.js.map",
+    "main.css": "/merch-site/static/css/main.91a2cca5.chunk.css",
+    "main.js": "/merch-site/static/js/main.0c516537.chunk.js",
+    "main.js.map": "/merch-site/static/js/main.0c516537.chunk.js.map",
     "runtime-main.js": "/merch-site/static/js/runtime-main.628cee91.js",
     "runtime-main.js.map": "/merch-site/static/js/runtime-main.628cee91.js.map",
     "static/js/2.950cf9f8.chunk.js": "/merch-site/static/js/2.950cf9f8.chunk.js",
     "static/js/2.950cf9f8.chunk.js.map": "/merch-site/static/js/2.950cf9f8.chunk.js.map",
     "index.html": "/merch-site/index.html",
-    "precache-manifest.8b5976ddd17a3b639cd54809e682fea5.js": "/merch-site/precache-manifest.8b5976ddd17a3b639cd54809e682fea5.js",
+    "precache-manifest.bb2f299eadcd1aa6301a0b342d35f549.js": "/merch-site/precache-manifest.bb2f299eadcd1aa6301a0b342d35f549.js",
     "service-worker.js": "/merch-site/service-worker.js",
-    "static/css/main.955562a4.chunk.css.map": "/merch-site/static/css/main.955562a4.chunk.css.map",
+    "static/css/main.91a2cca5.chunk.css.map": "/merch-site/static/css/main.91a2cca5.chunk.css.map",
     "static/js/2.950cf9f8.chunk.js.LICENSE.txt": "/merch-site/static/js/2.950cf9f8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.628cee91.js",
     "static/js/2.950cf9f8.chunk.js",
-    "static/css/main.955562a4.chunk.css",
-    "static/js/main.e15f8929.chunk.js"
+    "static/css/main.91a2cca5.chunk.css",
+    "static/js/main.0c516537.chunk.js"
   ]
 }
