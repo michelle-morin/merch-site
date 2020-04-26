@@ -81,12 +81,21 @@ body {
 }
 
 .buttons button {
-  width: 40%;
+  width: 45%;
   padding: 2%;
   color: #f5f5f5;
   border: 1px solid #82CA81;
   background-color: #82CA81;
 } 
+
+button.buy-button {
+  width: 100%;
+  padding: 2%;
+  color: #f5f5f5;
+  border: 1px solid #82CA81;
+  background-color: #82CA81;
+  margin-bottom: 2%;
+}
 
 input {
   color: #1A285A;

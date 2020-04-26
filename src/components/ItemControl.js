@@ -54,7 +54,7 @@ class ItemControl extends React.Component {
     const previousItemList = this.state.masterItemList.filter(item => item.id !== id);
     this.setState({
       masterItemList: [...previousItemList, updatedItem],
-      selectedItem: updatedItem
+      selectedItem: null
     });
   }
 
@@ -65,7 +65,7 @@ class ItemControl extends React.Component {
     const previousItemList = this.state.masterItemList.filter(item => item.id !== id);
     this.setState({
       masterItemList: [...previousItemList, updatedItem],
-      selectedItem: updatedItem
+      selectedItem: null
     });
   }
 

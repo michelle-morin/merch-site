@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 function Item(props){
 
   const itemStyles = {
-    height: '150px',
+    height: '200px',
     width: '150px',
     border: '1px solid #82CA81',
     textAlign: 'center',
@@ -13,17 +13,21 @@ function Item(props){
     marginTop: '1em'
   }
 
+  function inStock(count) {
+    return count > 0 ? <button className="buy-button" onClick={()=> props.whenBuyClicked(props.id)} type="submit">Buy</button>
+    : <p>sold out!</p>
+  }
+
   return (
     <React.Fragment>
-      <div onClick = {() => props.whenItemClicked(props.id)}>
-        <div style={itemStyles}>
-          <p>{props.name}</p>
-          <p>{props.description}</p>
-          <p>Quantity: {props.quantity}</p>
-          <div className="buttons">
-            <button onClick={()=> props.whenBuyClicked(props.id)} type="submit">Buy</button>
-            <button onClick={()=> props.whenRestockClicked(props.id)} type="submit">Restock</button> 
-          </div>
+      <div style={itemStyles}>
+        <p>{props.name}</p>
+        <p>{props.description}</p>
+        <p>Quantity: {props.quantity}</p>
+        {inStock(props.quantity)}
+        <div className="buttons">
+          <button onClick={()=> props.whenRestockClicked(props.id)} type="submit">Restock</button> 
+          <button onClick = {() => props.whenItemClicked(props.id)}>Details</button>
         </div>
       </div>
     </React.Fragment>
