@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/merch-site/static/css/main.955562a4.chunk.css",
+    "main.js": "/merch-site/static/js/main.e15f8929.chunk.js",
+    "main.js.map": "/merch-site/static/js/main.e15f8929.chunk.js.map",
+    "runtime-main.js": "/merch-site/static/js/runtime-main.628cee91.js",
+    "runtime-main.js.map": "/merch-site/static/js/runtime-main.628cee91.js.map",
+    "static/js/2.950cf9f8.chunk.js": "/merch-site/static/js/2.950cf9f8.chunk.js",
+    "static/js/2.950cf9f8.chunk.js.map": "/merch-site/static/js/2.950cf9f8.chunk.js.map",
+    "index.html": "/merch-site/index.html",
+    "precache-manifest.d6fd579ba9d1f7a00ced599687ac3a8a.js": "/merch-site/precache-manifest.d6fd579ba9d1f7a00ced599687ac3a8a.js",
+    "service-worker.js": "/merch-site/service-worker.js",
+    "static/css/main.955562a4.chunk.css.map": "/merch-site/static/css/main.955562a4.chunk.css.map",
+    "static/js/2.950cf9f8.chunk.js.LICENSE.txt": "/merch-site/static/js/2.950cf9f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.628cee91.js",
+    "static/js/2.950cf9f8.chunk.js",
+    "static/css/main.955562a4.chunk.css",
+    "static/js/main.e15f8929.chunk.js"
+  ]
+}
