@@ -27,31 +27,31 @@ Deployed on [GitHub pages](https://michelle-morin.github.io/merch-site/)
 
 ###### For macOS:
 _If Homebrew is not installed on your computer already, then install Homebrew by entering the following two commands in Terminal:_
-* $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-* $ echo 'export PATH=/usr/local/bin:$PATH' >> ~/.bash_profile
+* ``/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"``
+* ``echo 'export PATH=/usr/local/bin:$PATH' >> ~/.bash_profile``
 
-_Install Git with the following command:_
-* $ brew install git
+_Install Git by entering the following command in Terminal:_
+* ``brew install git``
 
 _Next, install Node.js by entering the following command in Terminal:_
-* $ brew install node
+* ``brew install node``
 
 ###### For Windows:
 _Please visit the [Node.js website](https://nodejs.org/en/download/) for installation instructions._
 
 #### Install this application
 
-_Clone this repository via Terminal using the following commands:_
-* _$ cd desktop_
-* _$ git clone {url to this repository}_
-* _$ cd merch-site_
-_Then, confirm that you have navigated to the merch-site project directory by entering "pwd" in Terminal._
+_Clone this repository by entering the following commands in Terminal (macOS) or PowerShell (Windows):_
+* ``cd desktop``
+* ``git clone https://github.com/michelle-morin/merch-site``
+* ``cd merch-site``
+_Confirm that you have navigated to the merch-site project directory (e.g., by entering ``pwd`` in Terminal (macOS) or PowerShell (Windows))._
 
-_Next, install npm at the project's root directory via the following commands:_
-* _$ npm install_
-* _$ npm run build_
+_Next, install npm at the project's root directory and open the development server by entering the following commands in Terminal (macOS) or PowerShell (Windows):_
+* ``npm install``
+* ``npm start``
 
-_Open the contents of the directory in a text editor or IDE of your choice (e.g., to open the contents of the directory in Visual Studio Code on macOS, enter the command "code ." in Terminal)._
+_Open the contents of the merch-site directory in a text editor or IDE of your choice (e.g., to open the directory in Visual Studio Code on macOS, enter the command ``code .`` in Terminal)._
 
 ## Technologies Used
 
@@ -65,4 +65,4 @@ _Open the contents of the directory in a text editor or IDE of your choice (e.g.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-Copyright (c) 2020 **_Michelle Morin, Benjamin Thom, Brandan Sayarath_** 
+Copyright &copy; 2020 **_Michelle Morin, Benjamin Thom, Brandan Sayarath_** 
